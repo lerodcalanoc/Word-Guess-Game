@@ -1,6 +1,6 @@
 # Word-Guess-Game - Marvel Super Heroes style
 
-Link to the game
+Link to the game: https://lerodcalanoc.github.io/Word-Guess-Game/
 
 Marvel fans unite! Let’s put your Marvel knowledge to the test by guessing the name of the super hero/heroes!
 
