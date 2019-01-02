@@ -6,12 +6,12 @@
 
 **HOW TO PLAY:**
 
-1.	Click the **“CLICK HERE TO START!”** button to start the game.
-2.	Press any key to start guessing the name of the Marvel Super Hero/Heroes.
-3.	If you guessed the name right, you will get a point.
-4.	If you guessed a wrong letter, then it will add the letter to a list on wrong letters guessed and decrement the remaining guesses count.
-5.	If you run out of guesses count, you lose the round.
-6.	You have 9 seconds to continue the game by refreshing the page. If you fail to do so, the game is over.
+ * Click the **“CLICK HERE TO START!”** button to start the game.
+ * Press any key to start guessing the name of the Marvel Super Hero/Heroes.
+ * If you guessed the name right, you will get a point.
+ * If you guessed a wrong letter, then it will add the letter to a list on wrong letters guessed and decrement the remaining guesses count.
+ * If you run out of guesses count, you lose the round.
+ * You have 9 seconds to continue the game by refreshing the page. If you fail to do so, the game is over.
 
 **GAME DESIGN SOURCES:**
 
