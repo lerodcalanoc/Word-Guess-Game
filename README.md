@@ -1,4 +1,4 @@
-# Word-Guess-Game : Marvel Super Heroes style
+# Word-Guess-Game : Marvel Super Heroes
 
 [Click here to play the game.](https://lerodcalanoc.github.io/Word-Guess-Game/)
 
