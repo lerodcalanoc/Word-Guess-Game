@@ -2,6 +2,8 @@
 
 [Click here to play the game.](https://lerodcalanoc.github.io/Word-Guess-Game/)
 
+![](https://media.giphy.com/media/vBjLa5DQwwxbi/giphy.gif)
+
 **Marvel fans unite!** Let’s put your Marvel knowledge to the test by guessing the name of the super hero/heroes!
 
 **HOW TO PLAY:**
